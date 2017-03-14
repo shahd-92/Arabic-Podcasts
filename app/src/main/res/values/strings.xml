@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Arabic Podcasts</string>
+    <string name="app_name">git remote add origin https://github.com/shahd-92/Arabic-Podcasts.git</string>
     <string name="NowPlaying">Now Playing</string>
     <string name="AddPodcast">Add New Podcast</string>
     <string name="DownloadedPodcasts">Downloaded Podcasts</string>
