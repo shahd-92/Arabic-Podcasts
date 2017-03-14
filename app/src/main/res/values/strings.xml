@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Arabic Podcasts</string>
+    <string name="NowPlaying">Now Playing</string>
+    <string name="AddPodcast">Add New Podcast</string>
+    <string name="DownloadedPodcasts">Downloaded Podcasts</string>
+    <string name="PodcastInfo">Podcast Information</string>
+
+    <string name="podcastsItem">podcast list item</string>
+    <string name="podcastsInfo">podcast information</string>
+    <string name="addPodcasts">adding podcast</string>
+    <string name="downloaded">downloaded podcast</string>
+</resources>
